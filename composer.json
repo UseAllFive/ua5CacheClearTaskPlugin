@@ -1,0 +1,9 @@
+{
+    "name": "UseAllFive/ua5CacheClearTaskPlugin",
+    "source": {
+        "type": "git",
+        "url": "https://github.com/UseAllFive/ua5CacheClearTaskPlugin",
+        "reference": "master"
+    },
+    "type": "symfony1-plugin"
+}
